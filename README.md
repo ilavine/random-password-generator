@@ -2,6 +2,9 @@
 
 Week 3 Homework requirement was to modify a starter code to create an application that generates random passwords based on criteria that a user had selected. The password can include lowercase, uppercase, numeric, and special characters.This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code.
 
+[Deployed page](https://ilavine.github.io/random-password-generator/)
+[Github Repo](https://github.com/ilavine/random-password-generator)
+
 
 ## User Story
 
